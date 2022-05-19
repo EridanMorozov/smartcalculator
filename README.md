@@ -1,2 +1,10 @@
-# smartcalculator
+###### Smart Calculator
+
 Калькулятор с формулами на языке Python для проекта в Лицей №3 Г. Оренбурга
+
+Как запустить?
+`Установить Python 3.9`
+
+Установить библиотеки командой: `pip install -r requirements.txt`
+
+Запустить приложение командой:  `python main.py`
